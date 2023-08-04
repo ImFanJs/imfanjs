@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/imfanjs" target="blank"><img src="https://img.shields.io/twitter/follow/imfanjs?logo=twitter&style=for-the-badge" alt="imfanjs" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://imfanjs.herokuapp.com)
 
-- 🌱 I’m currently learning **backend best practices**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 👯 I’m looking to collaborate on **javascript projects**
 
